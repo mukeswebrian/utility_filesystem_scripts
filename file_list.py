@@ -1,4 +1,6 @@
-# Entry by Brian Mukeswe
+# Author: Brian Mukeswe
+# Date: July 23, 2018
+# Contact: b.mukeswe@sms.ed.ac.uk
 # This script generates a text file containing a list of all files in a root directory and files in all subdirectories.
 #     The output list includes the date and time at which each file was last modified
 import os, sys
