@@ -1,4 +1,7 @@
-# This file was created by Brian Mukeswe on October 16, 2017
+# Author: Brian Mukeswe
+# Date: October 16, 2017
+# Contact: b.mukeswe@sms.ed.ac.uk
+
 ''' This script can be used to search for and open multiple files in different directories
     within a given root directory (usally the working directory)
 
