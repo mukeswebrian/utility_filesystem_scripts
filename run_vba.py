@@ -1,6 +1,7 @@
 # Author: Brian Mukeswe
 # Date: July 23, 2018
-# Contact: b.mukeswe@sms.ed.ac.uk
+# Contact: mukeswebrian@yahoo.com
+
 # This script can be used to run a vba macro from python.
 # Inputs: A Maro enabled spreadsheeet (.xlsm)
 
