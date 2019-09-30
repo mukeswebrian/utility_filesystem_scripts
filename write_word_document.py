@@ -1,6 +1,6 @@
 '''
 Author: Brian Mukeswe
-Contact: b.mukeswe@sms.ed.ac.uk
+Contact: mukeswebrian@yahoo.com
 
 This script writes a customized MSWord report based on a provided template.
 '''
