@@ -2,7 +2,7 @@
 Author: Brian Mukeswe
 Company: Midgard Consulting Inc.
 Date: May 16, 2019
-Contact: b.mukeswe@sms.ed.ac.uk
+Contact: mukeswebrian@yahoo.com
 
 
 This script extracts comment pages and reference
