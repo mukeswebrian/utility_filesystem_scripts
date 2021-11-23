@@ -1,0 +1,24 @@
+{
+    "GroomsMen.pdf": {
+        "johnston.pdf": "1",
+        "joses.pdf": "2",
+        "anant.pdf": "3",
+        "trevor.pdf": "4",
+        "michael.pdf": "5",
+        "tim.pdf": "6",
+        "junior.pdf": "7"
+    },
+    "BridesMaids.pdf": {
+        "nkiru.pdf": "1-2",
+        "lynnet.pdf": "3-4",
+        "nana.pdf": "5-6",
+        "aida.pdf": "7-8",
+        "feruz.pdf": "9-10",
+        "martha.pdf": "11-12",
+        "clara.pdf": "13-14",
+        "sharon.pdf": "15-16"
+    },
+    "BridesMaids_2.pdf":{
+        "sello.pdf": "15-16"
+    }
+}
